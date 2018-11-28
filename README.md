@@ -14,3 +14,7 @@ $ npm start
 ☐Add routes to settings, recents, favorites, and contacts
 
 ☐Change UI
+
+☐Connect login page to dashboard
+
+☐Optimize for mobile
