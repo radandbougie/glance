@@ -21,7 +21,7 @@ Meteor.startup(function() {
       timestamp: Moment().subtract(1, 'days').toDate()
     },
     {
-      text: 'Look at my mukluks!',
+      text: 'Yee-Haw!',
       timestamp: Moment().subtract(4, 'days').toDate()
     },
     {
